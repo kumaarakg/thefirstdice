@@ -1,1 +1,1 @@
-# thefirstdice
+# dicegame
